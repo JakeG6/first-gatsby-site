@@ -5,6 +5,7 @@ import "./footer.css"
 const Footer = () => {
     return (
         <div>
+            <Link className="footerLink" to="/">Go back to the homepage</Link>
             <Link className="footerLink" to="/page-2/">Go to page 2</Link>
             <Link className="footerLink" to="/blog/">Go to the blog</Link>
             <Link className="footerLink" to="/contact/">Contact</Link>

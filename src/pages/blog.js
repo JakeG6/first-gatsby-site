@@ -9,7 +9,7 @@ const Blog = () => {
         <Layout>
             <h1>The Blog</h1>
             <p>Posts will show up here later on.</p>
-            <Link to="/">Go back to the homepage</Link>
+            
         </Layout>
     )
 }
